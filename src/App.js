@@ -1,6 +1,6 @@
 import AdviceSection from "./sections/Advice";
 import ArtsSection from "./sections/Art/ArtsSection";
-import UsersSection from "./sections/Users";
+import UsersSection from "./sections/Users/UsersSection";
 import "./styles.css";
 
 function App() {
